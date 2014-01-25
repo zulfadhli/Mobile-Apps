@@ -9,13 +9,8 @@
 </head>
 <body>
 <center>
-	<? echo $displayarray[$id];?><br>
-	<a href="index.php?id=1">1</a><br>
-	<a href="index.php?id=1">2</a><br>
-	<a href="index.php?id=1">3</a><br>
-	<a href="index.php?id=1">4</a><br>
-	<a href="index.php?id=1">5</a><br>
-	<a href="index.php?id=1">6</a><br>
+	<h1>My Name Zulfadhli</h1>
+	<p>Im new in phonegap! I will study hard!</p>
 </center>
 </body>
 </html>
